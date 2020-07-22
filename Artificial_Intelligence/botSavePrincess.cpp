@@ -41,5 +41,6 @@ int main(void) {
     }
 
     nextMove(n, r, c, grid);
+    
     return 0;
 }
